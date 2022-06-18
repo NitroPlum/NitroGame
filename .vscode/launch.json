@@ -1,0 +1,15 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+        {
+            "name": "HL Build",
+            "request": "launch",
+            "type": "hl",
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": {
+                "type": "haxe",
+                "args": "active configuration"
+            }
+        },
+	]
+}

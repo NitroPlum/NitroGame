@@ -1,0 +1,13 @@
+-cp src
+-lib heaps
+-lib hlsdl
+-lib aidenecs
+-lib heaps-aseprite
+-lib hxmath
+-lib deepnightLibs
+-lib ldtk-haxe-api
+-lib hscript
+-lib tweenxcore
+-lib castle
+-hl base.hl
+-main nitrogame.Main
